@@ -1,7 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 
 namespace ScanMe.Net_processing.Exceptions
 {
@@ -10,6 +7,8 @@ namespace ScanMe.Net_processing.Exceptions
         /// <summary>
         /// it is used when Rate Limit is exceeded
         /// </summary>
-        public RateLimit(string alert) : base(alert) { }
+        #region constructor
+            public RateLimit(string alert) : base(alert) { }
+        #endregion
     }
 }
