@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScanMe .Net", "ScanMe .Net\ScanMe .Net.csproj", "{F1E8F33B-12B3-44BC-A4F8-E8E8ABDBEC3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScanMe .Net processing", "ScanMe .Net processing\ScanMe .Net processing.csproj", "{4F2AA21D-E145-4492-ACB9-5F9DF26A377B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1E8F33B-12B3-44BC-A4F8-E8E8ABDBEC3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1E8F33B-12B3-44BC-A4F8-E8E8ABDBEC3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1E8F33B-12B3-44BC-A4F8-E8E8ABDBEC3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1E8F33B-12B3-44BC-A4F8-E8E8ABDBEC3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F2AA21D-E145-4492-ACB9-5F9DF26A377B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F2AA21D-E145-4492-ACB9-5F9DF26A377B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F2AA21D-E145-4492-ACB9-5F9DF26A377B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F2AA21D-E145-4492-ACB9-5F9DF26A377B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
