@@ -45,11 +45,11 @@
     <Compile Include="Exceptions\AccessDenied.cs" />
     <Compile Include="Exceptions\FileSize.cs" />
     <Compile Include="Exceptions\RateLimit.cs" />
+    <Compile Include="Hashs\Hashs.cs" />
     <Compile Include="ScanMe.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Hashs\" />
     <Folder Include="Scan\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
